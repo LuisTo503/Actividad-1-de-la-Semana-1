@@ -47,6 +47,7 @@ Para finalizar la actividad, se debe compartir el enlace del repositorio de GitH
 
 ## 📂 Estructura del Proyecto
     └── 📁Tarea_1_PHP
+        └── serie_Fibonacci.php
         └── frecuencia_caracteres.php
         └── numeros_Primos.php
         └── palindromos.php
