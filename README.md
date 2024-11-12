@@ -9,9 +9,14 @@ En esta actividad, se resuelven 4 problemas básicos de lógica utilizando PHP, 
 
 ### 1. **Problema de la Serie Fibonacci**:
 Escribe una función llamada `generarFibonacci` que reciba un número `n` como parámetro y genere los primeros `n` términos de la serie Fibonacci. La serie comienza con 0 y 1, y cada término subsiguiente es la suma de los dos anteriores.
+## Captura
+
 
 ### 2. **Problema de Números Primos**:
 Crea una función llamada `esPrimo` que determine si un número dado es primo o no. Un número primo es aquel que solo es divisible por 1 y por sí mismo.
+## Captura
+![image](https://github.com/user-attachments/assets/3bfc7738-2262-4dcd-928b-4fd3b4b3ef45)
+
 
 ### 3. **Problema de Palíndromos**:
 Implementa una función llamada `esPalindromo` que determine si una cadena de texto dada es un palíndromo. Un palíndromo es una palabra, frase o secuencia que se lee igual en ambas direcciones.
