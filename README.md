@@ -46,3 +46,8 @@ Para finalizar la actividad, se debe compartir el enlace del repositorio de GitH
 - Editor de código (Visual Studio Code)
 
 ## 📂 Estructura del Proyecto
+    └── 📁Tarea_1_PHP
+        └── frecuencia_caracteres.php
+        └── numeros_Primos.php
+        └── palindromos.php
+        └── README.md
